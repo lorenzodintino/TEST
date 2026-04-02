@@ -1,4 +1,4 @@
-```
+
 # Dependencies
 __pycache__/
 *.pyc
@@ -37,4 +37,10 @@ coverage-final.json
 .Trashes
 ehthumbs.db
 Thumbs.db
-```
+
+
+
+
+
+.idea/
+.streamlit/
