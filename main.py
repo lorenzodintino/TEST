@@ -62,8 +62,10 @@ def main():
     
     # Creiamo la tabella per il modello Utente
     # (in alternativa si può usare db_manager.crea_tutte_le_tabelle())
-    db_manager.crea_tabella(Utente)
-    
+    # db_manager.crea_tabella(Utente)
+    db_manager.crea_tutte_le_tabelle()
+
+
     # ============================================
     # 3. SALVATAGGIO DELL'UTENTE NEL DATABASE
     # ============================================
