@@ -1,8 +1,0 @@
-sqlmodel
-pydantic
-pydantic[email]
-aiosqlite
-streamlit
-bcrypt
-openpyxl
-pandas
