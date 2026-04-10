@@ -1,0 +1,11 @@
+bcrypt
+mysql-connector-python
+pandas
+pydantic[email]
+pydantic
+pyinstaller
+streamlit
+openpyxl
+sqlmodel
+pymysql
+python-dotenv
